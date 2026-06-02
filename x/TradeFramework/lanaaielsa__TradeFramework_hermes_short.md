@@ -8,6 +8,7 @@
 ## 弱信号(低权重)
 L1  社交热度极高+行情未启动 → 信息差机会 | social_score>80 & |ch_24h|<10%
 L2  低市值+高社交热度+有合约 → Alpha早期 | market_cap<50M & social_score>50
+L3  社交先行→MM入场预期: 高热度+低合约量→MM可能即将做市 | social_score>70 & oi_marketcap<5% (Theory:做市商之春)
 S1  社交热度降温+价格高位 → 叙事退潮 | social_score<20 & ch_24h>30%
 
 ## 否决条件
