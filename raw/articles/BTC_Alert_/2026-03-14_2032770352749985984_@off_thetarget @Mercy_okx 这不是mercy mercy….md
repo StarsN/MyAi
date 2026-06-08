@@ -1,0 +1,14 @@
+---
+title: "Post by @BTC_Alert_ on X"
+source: "https://x.com/BTC_Alert_/status/2032770352749985984"
+author:
+  - "[[@BTC_Alert_]]"
+published: 2026-03-14
+created: 2026-06-04
+description: "@off_thetarget @Mercy_okx 这不是mercy  mercy做了指甲"
+tags:
+  - "clippings"
+---
+@off_thetarget @Mercy_okx 这不是mercy
+
+mercy做了指甲

@@ -1,0 +1,12 @@
+---
+title: "Post by @thecryptoskanda on X"
+source: "https://x.com/thecryptoskanda/status/1935234412154863675"
+author:
+  - "[[@thecryptoskanda]]"
+published: 2025-06-18
+created: 2026-06-06
+description: "@WatcherGuru fuck I thought that was the CA"
+tags:
+  - "clippings"
+---
+@WatcherGuru fuck I thought that was the CA

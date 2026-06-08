@@ -1,0 +1,12 @@
+---
+title: "Post by @BTC_Alert_ on X"
+source: "https://x.com/BTC_Alert_/status/1705529416544407630"
+author:
+  - "[[@BTC_Alert_]]"
+published: 2023-09-23
+created: 2026-06-04
+description: "@vvickym2 @justinsuntron @xiejiayinHuobi @66Huobi 好的，安排了。"
+tags:
+  - "clippings"
+---
+@vvickym2 @justinsuntron @xiejiayinHuobi @66Huobi 好的，安排了。

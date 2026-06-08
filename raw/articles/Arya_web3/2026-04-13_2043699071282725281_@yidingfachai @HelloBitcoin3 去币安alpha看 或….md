@@ -1,0 +1,12 @@
+---
+title: "Post by @Arya_web3 on X"
+source: "https://x.com/Arya_web3/status/2043699071282725281"
+author:
+  - "[[@Arya_web3]]"
+published: 2026-04-13
+created: 2026-06-03
+description: "@yidingfachai @HelloBitcoin3 去币安alpha看 或者是cmc"
+tags:
+  - "clippings"
+---
+@yidingfachai @HelloBitcoin3 去币安alpha看 或者是cmc

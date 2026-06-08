@@ -1,0 +1,12 @@
+---
+title: "Post by @Arya_web3 on X"
+source: "https://x.com/Arya_web3/status/1981390229169930691"
+author:
+  - "[[@Arya_web3]]"
+published: 2025-10-23
+created: 2026-06-03
+description: "@Cryptosis9_OKX @LokasGGG @btcironman @cz_binance 九妹 终于出山了"
+tags:
+  - "clippings"
+---
+@Cryptosis9_OKX @LokasGGG @btcironman @cz_binance 九妹 终于出山了

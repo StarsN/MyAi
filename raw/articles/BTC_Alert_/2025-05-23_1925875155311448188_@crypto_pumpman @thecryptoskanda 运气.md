@@ -1,0 +1,12 @@
+---
+title: "Post by @BTC_Alert_ on X"
+source: "https://x.com/BTC_Alert_/status/1925875155311448188"
+author:
+  - "[[@BTC_Alert_]]"
+published: 2025-05-23
+created: 2026-06-04
+description: "@crypto_pumpman @thecryptoskanda 运气"
+tags:
+  - "clippings"
+---
+@crypto_pumpman @thecryptoskanda 运气

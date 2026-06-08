@@ -1,0 +1,12 @@
+---
+title: "Post by @BTC_Alert_ on X"
+source: "https://x.com/BTC_Alert_/status/1925195163670073423"
+author:
+  - "[[@BTC_Alert_]]"
+published: 2025-05-21
+created: 2026-06-04
+description: "@MNson11 @HaedalProtocol @WalrusProtocol @Scallop_io push oil and wash sui。"
+tags:
+  - "clippings"
+---
+@MNson11 @HaedalProtocol @WalrusProtocol @Scallop_io push oil and wash sui。

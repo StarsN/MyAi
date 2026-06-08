@@ -1,0 +1,12 @@
+---
+title: "Post by @BTC_Alert_ on X"
+source: "https://x.com/BTC_Alert_/status/2014941112927191051"
+author:
+  - "[[@BTC_Alert_]]"
+published: 2026-01-24
+created: 2026-06-04
+description: "@XNXX_EN @star_okx hold long you can win"
+tags:
+  - "clippings"
+---
+@XNXX_EN @star_okx hold long you can win

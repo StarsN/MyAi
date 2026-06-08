@@ -1,0 +1,12 @@
+---
+title: "Post by @BTC_Alert_ on X"
+source: "https://x.com/BTC_Alert_/status/1923191120147751164"
+author:
+  - "[[@BTC_Alert_]]"
+published: 2025-05-16
+created: 2026-06-04
+description: "@GamefiMaster morning old teacher。"
+tags:
+  - "clippings"
+---
+@GamefiMaster morning old teacher。
